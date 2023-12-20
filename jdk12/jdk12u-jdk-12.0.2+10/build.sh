@@ -1,5 +1,5 @@
 #!/bin/sh
-env PATH=/usr/bin:/usr/sbin:/usr/sfw/bin:/usr/gnu/bin bash ./configure \
+env PATH=/usr/bin:/usr/sbin:/usr/sfw/bin:/usr/gnu/bin:/data/download/developerstudio12.6/bin bash ./configure \
 --enable-unlimited-crypto --with-boot-jdk=/usr/jdk/instances/jdk11 \
 --with-native-debug-symbols=none \
 --with-toolchain-type=solstudio \
