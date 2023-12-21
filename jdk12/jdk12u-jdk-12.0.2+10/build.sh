@@ -6,4 +6,4 @@ env PATH=/usr/bin:/usr/sbin:/usr/sfw/bin:/usr/gnu/bin:/data/download/solstudio/b
 --disable-hotspot-gtest --disable-dtrace \
 --disable-warnings-as-errors
 
-env PATH=/usr/bin:/usr/sbin:/usr/sfw/bin:/usr/gnu/bin:/data/download/solstudio/bin make all
+env PATH=/usr/bin:/usr/sbin:/usr/sfw/bin:/usr/gnu/bin:/data/download/solstudio/bin gmake all
